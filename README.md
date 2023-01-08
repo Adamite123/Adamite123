@@ -18,7 +18,7 @@ Hi, i'm [Adam muhammad](https://www.instagram.com/_aadamz/), a bachelor Double D
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="345" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100px" height="345" />
   
 - 💼 Email? [Here!](mailto:adam.muhammad362@gmail.com)
 - 💬 ask me about anything, i am happy to help.
@@ -37,7 +37,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
 
 
-<p align="left" width="200px"> <img src="https://github-readme-stats.vercel.app/api?username=adam123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left" width="100px"> <img src="https://github-readme-stats.vercel.app/api?username=adam123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
