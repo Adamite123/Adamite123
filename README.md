@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="50%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adam123.adam123&left_color=black&right_color=blue)
@@ -37,7 +37,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"></code>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adam123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=adam123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
