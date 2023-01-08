@@ -18,7 +18,7 @@ Hi, i'm [Adam muhammad](https://www.instagram.com/_aadamz/), a bachelor Double D
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100px" height="345" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300px" height="345" />
   
 - 💼 Email? [Here!](mailto:adam.muhammad362@gmail.com)
 - 💬 ask me about anything, i am happy to help.
